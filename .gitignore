@@ -174,4 +174,6 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
+**/tmp/**
+
 # End of https://www.toptal.com/developers/gitignore/api/kotlin,macos,intellij
